@@ -11,6 +11,7 @@ body {
 }
 
 nav {
+    text-shadow: 2px 2px 1px navy;
     background-color: rgb(206, 238, 227);
     padding: 20px;
     border-bottom: 5px solid white;
